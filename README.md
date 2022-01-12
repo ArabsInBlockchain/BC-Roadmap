@@ -1,6 +1,6 @@
 # Simple Roadmap for technical blockchain enthusiasts
 
-This reference is not completed yet and my ultimate goal is to complete and share it as an article with the global community &quot; in **English** format &quot; and with my local community &quot; in **Arabic** format&quot; . Please feel free to suggest and collaborate :
+This reference is not completed yet and my ultimate goal is to complete and share it as an article with the global community &quot; in **English** format &quot; and with my local community &quot; in **Arabic** format&quot;. Please feel free to suggest and collaborate.
 
 **1. Fundamentals:**  
 To start in the web3 world and even before you decide what the technical role you want to play, you need to understand the fundamentals very well
@@ -9,17 +9,17 @@ To start in the web3 world and even before you decide what the technical role yo
     2. The best resources to learn these fundamentals are:
       1. Check the references
   2. Cryptography fundamentals
-    1. **You should know** Hash function, digital signature, public key's cryptography , symmetric encryption &amp; asymmetric encryption, Merkel trees
+    1. **You should know** Hash functions, digital signature, public key's cryptography, symmetric encryption &amp; asymmetric encryption, Merkel trees
     2. The best resources to learn these fundamentals are:
-      1. MIT course &quot; [first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1) and may be the third as well&quot;
+      1. MIT course &quot; [first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1) and maybe the third as well&quot;
       2. Chapter [1.1](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
       3. Check the references  
 
 **2. Select the blockchain network you want to learn &amp; understand the architecture very well**
 
-Regardless of the network, you should start with learning the bitcoin fundamentals, the first successful blockchain implementation, **Why**? Because most of the documents, whitepapers or tutorials always explain any blockchain network by holding a comparison with bitcoin. Based on your selected network, you have a different path of course but the best way for me is to start with **understanding the architecture** then how to develop and what are the available tools and so.
+Regardless of the network, you should start with learning the bitcoin fundamentals, the first successful blockchain implementation, **Why**? Because most of the documents, whitepapers, or tutorials always explain any blockchain network by holding a comparison with bitcoin. Based on your selected network, you have a different path of course but the best way for me is to start with **understanding the architecture** then how to develop and what are the available tools and so.
 
-**You should know**: the general arch, how it works, How nodes reach consensus and what are the main features that this network supports (e.g. support smart contracts functionality , permission blockchain or permissionless, etc.)
+**You should know**: the general arch, how it works, How nodes reach consensus, and what are the main features that this network supports (e.g. support smart contracts functionality, permission blockchain or permissionless, etc.)
 
   1. The best resources to learn about bitcoin are:  
     1. [Mastering bitcoin](https://github.com/bitcoinbook/bitcoinbook) (Book)  
@@ -27,7 +27,7 @@ Regardless of the network, you should start with learning the bitcoin fundamenta
     3. [this is a cool way to learn](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)  
     4. Check the references for more details  
 
-  2. The best resources to learn about ethereum are:  
+  2. The best resources to learn about Ethereum are:  
     1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (book)  
     2. Check the references for more details 
   3. The best resources to learn about Hyperledger Fabric are:  
@@ -38,7 +38,7 @@ Regardless of the network, you should start with learning the bitcoin fundamenta
   5. The best resources to learn about Polkadot are:  
     1. TBD
   6. The best resources to learn about Ethereum Swarm are:  
-    1. tbc
+    1. TBD
   7. The best resources to learn about Free TON are:  
     1. Freeton.org  
     2. Ton.dev  
@@ -51,9 +51,9 @@ Regardless of the network, you should start with learning the bitcoin fundamenta
   11. Check this funny [video](https://www.youtube.com/watch?v=J7cv8vljQ4s&amp;feature=youtu.be) to get a very quick overview
   12. [Check this article if you want to learn more in depth](https://medium.com/coinmonks/to-be-a-blockchain-developer-or-to-be-dapps-developer-fe6618f44dd1)
   13. Check the references for more details
-  14. **Specialize in specific subdomain**
+  14. **Specialize in a specific subdomain**
 
-Blockchain is like a general umbrella that has lots of subdomains and after a while you might find yourself need to sharpen your knowledge in a specific subdomain
+Blockchain is like a general umbrella that has lots of subdomains and after a while, you might need to sharpen your knowledge in a specific subdomain
 
   1. Defi → TBD
   2. NFT → TBD
@@ -82,7 +82,7 @@ Blockchain is like a general umbrella that has lots of subdomains and after a wh
    3. [https://www.theblockchainacademy.com/resources/](https://www.theblockchainacademy.com/resources/)
    4. [https://eattheblocks.com/category/guide/](https://eattheblocks.com/category/guide/)
 
-3. Git repos
+3. Git Repos
    1. [https://github.com/blockchainedindia/resources](https://github.com/blockchainedindia/resources)
    2. [https://github.com/nqcm/learning-blockcha in](https://github.com/nqcm/learning-blockchain)
    3. [https://github.com/ConsenSys/ethereum-developer-tools-list#new-developers-start-here](https://github.com/ConsenSys/ethereum-developer-tools-list#new-developers-start-here)
