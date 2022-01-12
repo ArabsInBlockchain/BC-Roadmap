@@ -8,14 +8,14 @@ Before you start in web3 and decide what technical role you want to play, you ne
     1. **You should know**: What is it, how it works, and the difference between P2P and client server-model
     2. The best resources to learn these fundamentals are:
       1. Check the references
-2. Cryptography fundamentals
+2. Cryptography fundamentals  
    **You should know** 
-    2. Hash functions
-    3. digital signature
-    4. public key's cryptography
-    5. symmetric encryption
-    6. asymmetric encryption
-    7. Merkel trees  
+    1. Hash functions  
+    2. digital signature  
+    3. public key's cryptography  
+    4. symmetric encryption  
+    5. asymmetric encryption  
+    6. Merkel trees  
    The best resources to learn these fundamentals are:
        1. MIT course ([first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1) and maybe the third as well)
        2. Chapter [1.1](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
