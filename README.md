@@ -3,21 +3,27 @@
 This reference is not completed yet and my ultimate goal is to complete and share it as an article with the global community &quot; in **English** format &quot; and with my local community &quot; in **Arabic** format&quot;. Please feel free to suggest and collaborate.
 
 **1. Fundamentals:**  
-To start in the web3 world and even before you decide what the technical role you want to play, you need to understand the fundamentals very well
-  1. Peer to peer fundamentals 
-    1. **You should know**: What is it, how it works, and the difference between p2p and client server-model
+Before you start in web3 and decide what technical role you want to play, you need to understand the fundamentals very well.
+1. Peer to peer fundamentals 
+    1. **You should know**: What is it, how it works, and the difference between P2P and client server-model
     2. The best resources to learn these fundamentals are:
       1. Check the references
-  2. Cryptography fundamentals
-    1. **You should know** Hash functions, digital signature, public key's cryptography, symmetric encryption &amp; asymmetric encryption, Merkel trees
-    2. The best resources to learn these fundamentals are:
-      1. MIT course &quot; [first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1) and maybe the third as well&quot;
-      2. Chapter [1.1](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
-      3. Check the references  
+2. Cryptography fundamentals
+   **You should know** 
+    2. Hash functions
+    3. digital signature
+    4. public key's cryptography
+    5. symmetric encryption
+    6. asymmetric encryption
+    7. Merkel trees  
+   The best resources to learn these fundamentals are:
+       1. MIT course ([first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1) and maybe the third as well)
+       2. Chapter [1.1](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
+       3. Check the references  
 
 **2. Select the blockchain network you want to learn &amp; understand the architecture very well**
 
-Regardless of the network, you should start with learning the bitcoin fundamentals, the first successful blockchain implementation, **Why**? Because most of the documents, whitepapers, or tutorials always explain any blockchain network by holding a comparison with bitcoin. Based on your selected network, you have a different path of course but the best way for me is to start with **understanding the architecture** then how to develop and what are the available tools and so.
+* Regardless of the network, you should start with learning the bitcoin fundamentals, the first successful blockchain implementation, **Why**? Because most of the documents, whitepapers, or tutorials always explain any blockchain network by holding a comparison with bitcoin. Based on your selected network, you have a different path of course but the best way for me is to start with **understanding the architecture** then how to develop and what are the available tools and so.
 
 **You should know**: the general arch, how it works, How nodes reach consensus, and what are the main features that this network supports (e.g. support smart contracts functionality, permission blockchain or permissionless, etc.)
 
