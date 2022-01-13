@@ -26,7 +26,7 @@ the fundamentals very well.
        The best resources to learn these fundamentals are:
         1. MIT
            course ([first lecture](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1)
-           and maybe the third as well)
+           and maybe the [third](https://www.youtube.com/watch?v=0Q5IimX-AAc&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&index=4) as well)
         2. Chapter [1.1](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
         3. Check the references
 
