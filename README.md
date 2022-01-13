@@ -10,11 +10,11 @@ the fundamentals very well.
 
 1. Peer to peer fundamentals  
     **You should know**:
-    2. What is it
-    3. How it works  
-    4. Difference between P2P and client-server model  
+   1. What is it
+   2. How it works  
+   3. Difference between P2P and client-server model  
    The best resources to learn these fundamentals are:  
-       1. Check the references
+      1. Check the references
 2. Cryptography fundamentals  
    **You should know**
     1. Hash functions
