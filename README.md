@@ -8,10 +8,13 @@ free to suggest and collaborate.
 &nbsp;&nbsp;&nbsp;&nbsp;Before you start in web3 and decide what technical role you want to play, you need to understand
 the fundamentals very well.
 
-1. Peer to peer fundamentals
-    1. **You should know**: What is it, how it works, and the difference between P2P and client server-model
-    2. The best resources to learn these fundamentals are:
-    1. Check the references
+1. Peer to peer fundamentals  
+    **You should know**:
+    2. What is it
+    3. How it works  
+    4. Difference between P2P and client-server model  
+   The best resources to learn these fundamentals are:  
+       1. Check the references
 2. Cryptography fundamentals  
    **You should know**
     1. Hash functions
