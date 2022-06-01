@@ -84,6 +84,32 @@ knowledge in a specific subdomain
 2. NFT → TBD
 3. DAOs → TBD
 4. Tokenization → TBD
+5. Blockchain  / Auditing
+  - Smart contract security / auditing 
+    - roadmaps 
+      - https://www.adrianhetman.com/how-to-become-smart-contract-auditor/ 
+      - https://www.getastra.com/blog/knowledge-base/blockchain-security/
+    - Bootcamp 
+      - https://secureum.substack.com/ 
+
+    - Git repos
+      - https://github.com/crytic/awesome-ethereum-security
+    - audit contests & bug bounties 
+      -  https://code4rena.com/ 
+      - https://immunefi.com/ 
+    - https://www.adrianhetman.com/do-you-need-to-know-programming-to-work-as-an-auditor/ 
+    - Books & Papers 
+      - https://eprint.iacr.org/2016/1007.pdf   
+      - https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189 
+      - Audits 
+       - https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf  
+      - newsletters 
+        - https://rekt.news/ 
+        - https://newsletter.blockthreat.io/ 
+
+
+
+
 
 **Resources in different languages**
 
