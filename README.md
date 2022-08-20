@@ -69,10 +69,10 @@ network supports (e.g. support smart contracts functionality, permission blockch
     2. [NEAR in Nutsell](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/)
     3. [BC & NEAR Concepts Docs](https://docs.near.org/concepts/basics/protocol)
     4. [Start Development - Arabic Course](https://www.udemy.com/course/introduction-to-blockchain-in-arabic/#:~:text=%D9%8A%D9%82%D9%88%D9%85%20%D8%B4%D8%AE%D8%B5%20%D9%85%D8%A7%20%D8%A8%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A9,%D8%B9%D9%84%D9%89%20%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A3%D9%86%D9%87%D8%A7%20%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA%20%D8%B9%D8%A7%D9%85%D8%A9)
-    5. [Development Tutorial](https://dacade.org/communities/near)
-    6. [Concepts Crash Course](https://www.youtube.com/playlist?list=PL9tzQn_TEuFWJwvBg5V6EVa2DtYL_-2lJ)
-    7. [Token Economics](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
-    8. [Other great learning resources](https://www.near.university/learn/by-yourself)
+    5. [Development Tutorial - English ](https://dacade.org/communities/near)
+    6. [Concepts Crash Course - English ](https://www.youtube.com/playlist?list=PL9tzQn_TEuFWJwvBg5V6EVa2DtYL_-2lJ)
+    7. [Token Economics - English ](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
+    8. [Other great learning resources @NEAR University](https://www.near.university/learn/by-yourself)
 
 
 9. The best resources to learn about Cardano, Polkadot, Solana are:
