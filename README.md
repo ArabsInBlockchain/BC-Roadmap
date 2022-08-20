@@ -64,18 +64,27 @@ network supports (e.g. support smart contracts functionality, permission blockch
 7. The best resources to learn about Free TON are:
     1. Freeton.org
     2. Ton.dev
-8. The best resources to learn about Cardano, Polkadot, Solana and Near are:
+8. The best resources to learn about NEAR are:
+    1. [Vision of NEAR](https://near.org/blog/the-near-foundations-vision-for-the-future/)
+    2. [NEAR in Nutsell] (https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/)
+    3. [BC & NEAR Concepts Docs] (https://docs.near.org/concepts/basics/protocol)
+    4. [Development - Arabic Course](https://www.udemy.com/course/introduction-to-blockchain-in-arabic/#:~:text=%D9%8A%D9%82%D9%88%D9%85%20%D8%B4%D8%AE%D8%B5%20%D9%85%D8%A7%20%D8%A8%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A9,%D8%B9%D9%84%D9%89%20%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A3%D9%86%D9%87%D8%A7%20%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA%20%D8%B9%D8%A7%D9%85%D8%A9.)
+    5.[Development Tutorial] (https://dacade.org/communities/near)
+    7.[Concepts Crash Course] (https://www.youtube.com/playlist?list=PL9tzQn_TEuFWJwvBg5V6EVa2DtYL_-2lJ)
+    8.[Token Economics](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
+    9. [Other great learning resources](https://www.near.university/learn/by-yourself)
+9. The best resources to learn about Cardano, Polkadot, Solana are:
+    1. 
+10. The best resources to learn about IPFS and Filecoin are:
     1. TBD
-9. The best resources to learn about IPFS and Filecoin are:
-    1. TBD
-10. **Different paths based on the role you want to play and based on the silks you already have**  
+11. **Different paths based on the role you want to play and based on the silks you already have**  
     Blockchain is a new technology with lots of roles that you can play but based on your end goals and your current
     knowledge and experience, you have your own unique path
-11. Check this funny [video](https://www.youtube.com/watch?v=J7cv8vljQ4s&amp;feature=youtu.be) to get a very quick
+12. Check this funny [video](https://www.youtube.com/watch?v=J7cv8vljQ4s&amp;feature=youtu.be) to get a very quick
     overview
-12. [Check this article if you want to learn more in depth](https://medium.com/coinmonks/to-be-a-blockchain-developer-or-to-be-dapps-developer-fe6618f44dd1)
-13. Check the references for more details
-14. **Specialize in a specific subdomain**
+13. [Check this article if you want to learn more in depth](https://medium.com/coinmonks/to-be-a-blockchain-developer-or-to-be-dapps-developer-fe6618f44dd1)
+14. Check the references for more details
+15. **Specialize in a specific subdomain**
 
 Blockchain is like a general umbrella that has lots of subdomains and after a while, you might need to sharpen your
 knowledge in a specific subdomain
