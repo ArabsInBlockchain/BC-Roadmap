@@ -3,6 +3,7 @@
 This reference is not completed yet and my ultimate goal is to complete and share it as an article with the global
 community &quot; in **English** format &quot; and with my local community &quot; in **Arabic** format&quot;. Please feel
 free to suggest and collaborate.
+**Table of content **
 
 **1. Fundamentals:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Before you start in web3 and decide what technical role you want to play, you need to understand
@@ -41,33 +42,6 @@ the fundamentals very well.
 **You should know**: the general arch, how it works, How nodes reach consensus, and what are the main features that this
 network supports (e.g. support smart contracts functionality, permission blockchain or permissionless, etc.)
 
-1. The best resources to learn about bitcoin are:
-    1. [Mastering bitcoin](https://github.com/bitcoinbook/bitcoinbook) (Book)
-    2. MIT course
-       &quot; [the first 11 videos are a MUST](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1)
-    3. [this is a cool way to learn](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
-    4. Check the references for more details
-
-2. The best resources to learn about Ethereum are:
-    1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (book)
-    2. Check the references for more details
-3. The best resources to learn about Hyperledger Fabric are:
-    1. [The documentation](https://hyperledger-fabric.readthedocs.io/en/v1.0.5/?fbclid=IwAR1hpDfbaqg5RKCOu00YRIGGgx82miIwuahEV8EW9fkdufXspSuQzGNUmzQ)
-    2. Module 7
-       in [edx course](https://l.facebook.com/l.php?u=https%3A%2F%2Fcourses.edx.org%2Fcourses%2Fcourse-v1%3ALinuxFoundationX%2BLFS171x%2B3T2017%2Fcourse%2F%3Ffbclid%3DIwAR3p1ZYUNPj9wX0OFwo82-q4vBHuzBSOqwvqwPyOPaerO4QnFkRRFhjoBuM&amp;h=AT0M6kTMvcWBbAQclV73fzPfzEpISbWuTr012huHiCrgpgfus5EHHbaaP1UoUeFjFHBzt0cY0yaZmb3BfjL6H-vLZw5SYyUxTjdZBNFb-HfIj0_iN3UPvWwcTQ)
-4. The best resources to learn about Consensys Quorum are:
-    1. TBD
-5. The best resources to learn about Polkadot are:
-    1. TBD
-6. The best resources to learn about Ethereum Swarm are:
-    1. TBD
-7. The best resources to learn about Free TON are:
-    1. Freeton.org
-    2. Ton.dev
-8. The best resources to learn about Cardano, Polkadot, Solana and Near are:
-    1. TBD
-9. The best resources to learn about IPFS and Filecoin are:
-    1. TBD
 10. **Different paths based on the role you want to play and based on the silks you already have**  
     Blockchain is a new technology with lots of roles that you can play but based on your end goals and your current
     knowledge and experience, you have your own unique path
@@ -119,6 +93,37 @@ knowledge in a specific subdomain
     - [https://www.youtube.com/playlist?list=PLXICrha0Si3q0KfQ1qvL9cX8uqr1ACnAZ](https://www.youtube.com/playlist?list=PLXICrha0Si3q0KfQ1qvL9cX8uqr1ACnAZ)
     - [https://www.youtube.com/watch?v=AvTtUF0roc0&amp;list=PLMYF6NkLrdN9b1zUSytDUcafRip551bqP&amp;index=1](https://www.youtube.com/watch?v=AvTtUF0roc0&amp;list=PLMYF6NkLrdN9b1zUSytDUcafRip551bqP&amp;index=1)
 
+
+
+# Blockchain network learning resources 
+
+1. The best resources to learn about bitcoin are:
+    1. [Mastering bitcoin](https://github.com/bitcoinbook/bitcoinbook) (Book)
+    2. MIT course
+       &quot; [the first 11 videos are a MUST](https://www.youtube.com/watch?v=IJquEYhiq_U&amp;list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&amp;index=1)
+    3. [this is a cool way to learn](https://cryptoeconomics.study/docs/en/sync/getting-started-course-overview)
+    4. Check the references for more details
+
+2. The best resources to learn about Ethereum are:
+    1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (book)
+    2. Check the references for more details
+3. The best resources to learn about Hyperledger Fabric are:
+    1. [The documentation](https://hyperledger-fabric.readthedocs.io/en/v1.0.5/?fbclid=IwAR1hpDfbaqg5RKCOu00YRIGGgx82miIwuahEV8EW9fkdufXspSuQzGNUmzQ)
+    2. Module 7
+       in [edx course](https://l.facebook.com/l.php?u=https%3A%2F%2Fcourses.edx.org%2Fcourses%2Fcourse-v1%3ALinuxFoundationX%2BLFS171x%2B3T2017%2Fcourse%2F%3Ffbclid%3DIwAR3p1ZYUNPj9wX0OFwo82-q4vBHuzBSOqwvqwPyOPaerO4QnFkRRFhjoBuM&amp;h=AT0M6kTMvcWBbAQclV73fzPfzEpISbWuTr012huHiCrgpgfus5EHHbaaP1UoUeFjFHBzt0cY0yaZmb3BfjL6H-vLZw5SYyUxTjdZBNFb-HfIj0_iN3UPvWwcTQ)
+4. The best resources to learn about Consensys Quorum are:
+    1. TBD
+5. The best resources to learn about Polkadot are:
+    1. TBD
+6. The best resources to learn about Ethereum Swarm are:
+    1. TBD
+7. The best resources to learn about Free TON are:
+    1. Freeton.org
+    2. Ton.dev
+8. The best resources to learn about Cardano, Polkadot, Solana and Near are:
+    1. TBD
+9. The best resources to learn about IPFS and Filecoin are:
+    1. TBD
 **References**
 
 1. Learning paths
